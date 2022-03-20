@@ -52,6 +52,7 @@ p{
     line-height: 150%;
 }
 
+
 `;
 
 export default GlobalStyle;
